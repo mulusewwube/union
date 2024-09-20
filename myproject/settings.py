@@ -96,7 +96,7 @@ WSGI_APPLICATION = 'myproject.wsgi.application'
 # # Database
 DATABASES = {
     'default': dj_database_url.config("postgresql://postgres:dMeORYFrNtVreIrCTuFguJYzpQeFrRXK@autorack.proxy.rlwy.net:14175/railway")
-
+}
 
 
 # Password validation
