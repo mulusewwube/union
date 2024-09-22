@@ -95,7 +95,7 @@ WSGI_APPLICATION = 'myproject.wsgi.application'
 
 # # Database
 DATABASES = {
-    'default': dj_database_url.config(default="postgresql://postgres:dMeORYFrNtVreIrCTuFguJYzpQeFrRXK@autorack.proxy.rlwy.net:14175/railway")
+    'default': dj_database_url.config(default="postgresql://postgres:UtcNpCogIMPuQxvChXZWRlmqMeqhLFdC@autorack.proxy.rlwy.net:27600/railway")
 }
 
 
